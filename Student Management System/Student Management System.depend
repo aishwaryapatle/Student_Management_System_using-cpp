@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671453414 source:d:\c_c++ project\student management system\main.cpp
+	<iostream>
+	<windows.h>
+
